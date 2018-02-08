@@ -1,5 +1,5 @@
 # Machine Learning Hobby Projects
 
-Few project files and folders I could recover from stuff I'd worked on in college and here and there.
+This repository contains some hobby projects that I had worked on most during and post my time at College.
 
 Note: The data files haven't been pushed to the repository
